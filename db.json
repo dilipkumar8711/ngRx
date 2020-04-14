@@ -1,0 +1,18 @@
+{
+    "customers":[
+        {
+            "name":"Dleep Kumar",
+            "phone":"7411380718",
+            "address":"RR temple road, Bangalore",
+            "membership":"Platinum",
+            "id":1
+        },
+        {
+            "name":"Ramya S",
+            "phone":"7411728831",
+            "address":"K R Puram, Bangalore",
+            "membership":"Pro",
+            "id":2
+        }
+    ]
+}
